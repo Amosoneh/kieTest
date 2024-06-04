@@ -1,0 +1,6 @@
+{
+  "java.compile.nullAnalysis.mode": "automatic",
+  "mavenPackageAuto.enable": false,
+  "mavenPackageAuto.maven.executable.options": "clean validate package -DskipTests",
+  "java.configuration.updateBuildConfiguration": "automatic"
+}
